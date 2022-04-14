@@ -105,3 +105,9 @@ Battle royale wordle
 Use your geography knowledge to figure out the mystery country in as few guesses as possible!
 
 ![Globle](img/globle.jpeg)
+
+## [Absurdle](https://qntm.org/files/absurdle/absurdle.html)
+
+An adversarial Wordle. "Adversarial" means that Absurdle is actively trying to avoid giving you the answer. With each guess, Absurdle reveals as little information as possible, changing the secret word if need be.
+
+![Absurdle](https://user-images.githubusercontent.com/5532783/163420236-994bacd3-93c3-4d3a-9343-891c3d219e18.png)
