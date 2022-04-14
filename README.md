@@ -31,3 +31,77 @@ Each guess must be a valid country, territory.
 After each guess, you will have the distance, the direction and the proximity from your guess and the target country.
 
 ![Worldle](img/worldle.png)
+
+## [Nerdle](https://nerdlegame.com/)
+
+Each guess is a calculation.
+
+You can use 0 1 2 3 4 5 6 7 8 9 + - * / or =.
+
+It must contain one “=”.
+
+It must only have a number to the right of the “=”, not another calculation.
+
+![Nerdle](img/nerdle.png)
+
+## [Quordle](https://www.quordle.com/)
+
+Put your skills to the test and solve four Wordles at once! 
+
+You have 9 guesses to solve all four words. 
+
+![Quordle](img/quordle.jpeg)
+
+## [Heardle](https://www.heardle.app/)
+
+Guess the song from the intro in as few tries as possible.
+
+![Heardle](img/heardle.jpeg)
+
+## [Framed](https://framed.wtf/)
+
+Guess the movie from the images. New movie each day!
+
+![Framed](img/framed.png)
+
+## [Waffle](https://wafflegame.net/)
+
+What is it? Wordle, but with six words plus drag-and-drop
+
+Frequency: Daily
+
+![Waffle](img/waffle.png)
+
+## [Crosswordle](https://crosswordle.vercel.app/)
+
+Recreate a valid Wordle grid given the final row and color coded tiles for the guesses.
+
+![Crosswordle](img/crosswordle.png)
+
+## [Dungleon](https://www.dungleon.com/)
+
+What is it? Wordle, but a dungeon crawler
+
+Frequency: Daily
+
+![Dungleon](img/dungleon.png)
+
+## [Squareword](https://squareword.org/)
+
+What is it? Wordle, but a 5x5 square
+
+Frequency: Daily
+
+![Squareword](img/squareword.png)
+
+## [Squabble](https://squabble.me/)
+
+Battle royale wordle
+
+![Squabble](img/squabble.jpeg)
+
+## [Globle](https://globle-game.com/)
+
+Use your geography knowledge to figure out the mystery country in as few guesses as possible!
+
+![Globle](img/globle.jpeg)
