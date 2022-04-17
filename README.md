@@ -129,3 +129,9 @@ Each day, the puzzle refreshes and has a new letter of the alphabet as the myste
 It's a bit like Wordle, but you have to guess ALL the words.
 
 ![WordAll](img/wordall.png)
+
+## [Worgle](https://bronze-age.com/worgle/)
+
+Guess the hidden word in 6 tries. A new puzzle is available each day.
+
+![Worgle](img/worgle.png)
