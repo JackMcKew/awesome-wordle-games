@@ -111,3 +111,21 @@ Use your geography knowledge to figure out the mystery country in as few guesses
 An adversarial Wordle. "Adversarial" means that Absurdle is actively trying to avoid giving you the answer. With each guess, Absurdle reveals as little information as possible, changing the secret word if need be.
 
 ![Absurdle](https://user-images.githubusercontent.com/5532783/163420236-994bacd3-93c3-4d3a-9343-891c3d219e18.png)
+
+## [Duotrigordle](https://duotrigordle.com)
+
+Put your skills to the test and solve thirty-two Wordles at once! You have 37 guesses to solve all 32 words. A new Duotrigordle available each day to solve.
+
+![Duotrigordle](img/duotrigordle.png)
+
+## [Letterle](https://edjefferson.com/letterle/)
+
+Each day, the puzzle refreshes and has a new letter of the alphabet as the mystery letter.
+
+![Letterle](img/letterle.png)
+
+## [WordAll](https://wordall.xyz)
+
+It's a bit like Wordle, but you have to guess ALL the words.
+
+![WordAll](img/wordall.png)
