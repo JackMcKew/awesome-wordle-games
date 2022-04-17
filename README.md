@@ -123,3 +123,9 @@ Put your skills to the test and solve thirty-two Wordles at once! You have 37 gu
 Each day, the puzzle refreshes and has a new letter of the alphabet as the mystery letter.
 
 ![Letterle](img/letterle.png)
+
+## [WordAll](https://wordall.xyz)
+
+It's a bit like Wordle, but you have to guess ALL the words.
+
+![WordAll](img/wordall.png)
