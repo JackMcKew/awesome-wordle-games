@@ -117,3 +117,9 @@ An adversarial Wordle. "Adversarial" means that Absurdle is actively trying to a
 Put your skills to the test and solve thirty-two Wordles at once! You have 37 guesses to solve all 32 words. A new Duotrigordle available each day to solve.
 
 ![Duotrigordle](img/duotrigordle.png)
+
+## [Letterle](https://edjefferson.com/letterle/)
+
+Each day, the puzzle refreshes and has a new letter of the alphabet as the mystery letter.
+
+![Letterle](img/letterle.png)
