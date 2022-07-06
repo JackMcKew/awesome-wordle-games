@@ -135,3 +135,9 @@ It's a bit like Wordle, but you have to guess ALL the words.
 Guess the hidden word in 6 tries. A new puzzle is available each day.
 
 ![Worgle](img/worgle.png)
+
+## [ArchiGuesser](https://archiguesser.com/)
+
+Each day a new architectural project to guess from the images!
+
+![ArchiGuesser](img/archiguesser.png)
