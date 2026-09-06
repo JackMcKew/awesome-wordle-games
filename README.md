@@ -64,6 +64,12 @@ Guess the movie from the images. New movie each day!
 
 ![Framed](img/framed.png)
 
+## [CineGuessr Daily](https://cineguessr.com/en/daily?ref=awesome-wordle-games)
+
+Guess the film from up to six frames, with a new puzzle each day at midnight UTC.
+
+Free to play in English, French or Russian, without an account.
+
 ## [Waffle](https://wafflegame.net/)
 
 What is it? Wordle, but with six words plus drag-and-drop
