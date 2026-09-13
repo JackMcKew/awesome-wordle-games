@@ -146,3 +146,9 @@ Each day a new architectural project to guess from the images!
 A free hub of **5 daily games like Wordle** — classic Wordle, Word Hurdle (6-letter), Mini Crossword, Word Search and Anagram Solver. No sign-up, fresh puzzles every 24 hours.
 
 ![WordleLike](img/wordlelike.png)
+
+## [LoLdoku](https://www.loldoku.gg/)
+
+Daily League of Legends puzzles: fill a champion grid, identify champions from attribute clues, or guess their silhouettes.
+
+Free to play in the browser without an account, with new daily puzzles and unlimited Classic and Silhouette modes.
