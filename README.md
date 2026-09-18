@@ -146,3 +146,11 @@ Each day a new architectural project to guess from the images!
 A free hub of **5 daily games like Wordle** — classic Wordle, Word Hurdle (6-letter), Mini Crossword, Word Search and Anagram Solver. No sign-up, fresh puzzles every 24 hours.
 
 ![WordleLike](img/wordlelike.png)
+
+## [One Step Late](https://arkai.win/games/one-step-late/)
+
+A logic puzzle rather than a word game, in the Wordle format: three boards a day (easy, medium, hard), the same for everyone, and a spoiler-free share line. You step where you choose, and your shadow repeats the move you made the turn before. You can see the holes; your shadow walks straight into them. Bring yourself to the sun and your shadow to the moon at the same moment, within par.
+
+Frequency: Daily
+
+![One Step Late](img/one-step-late.png)
