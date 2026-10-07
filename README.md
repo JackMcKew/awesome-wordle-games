@@ -146,3 +146,7 @@ Each day a new architectural project to guess from the images!
 A free hub of **5 daily games like Wordle** — classic Wordle, Word Hurdle (6-letter), Mini Crossword, Word Search and Anagram Solver. No sign-up, fresh puzzles every 24 hours.
 
 ![WordleLike](img/wordlelike.png)
+
+## [La Lutte des cases](https://luttedescases.fr/grille/today?utm_source=github&utm_medium=referral&utm_campaign=annuaire-github)
+
+A daily French arrowword (mots fléchés) built from the day's news. One free grid per day, no sign-up; the source articles are shown at the end and the score is shared without spoilers.
