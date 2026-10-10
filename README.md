@@ -146,3 +146,9 @@ Each day a new architectural project to guess from the images!
 A free hub of **5 daily games like Wordle** — classic Wordle, Word Hurdle (6-letter), Mini Crossword, Word Search and Anagram Solver. No sign-up, fresh puzzles every 24 hours.
 
 ![WordleLike](img/wordlelike.png)
+
+## [Krillion Coach](https://krillion.space/)
+
+Seven typed-answer trivia prompts per dive, with a date-based daily selection, free practice, an optional 25-second timer, a pixel-fish descent and answer review. Free, browser-based and no account required.
+
+Independent of krillion.io, with 40 original prompts and its own accepted answers and practice scoring; questions can repeat. English, for adults.
