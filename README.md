@@ -146,3 +146,7 @@ Each day a new architectural project to guess from the images!
 A free hub of **5 daily games like Wordle** — classic Wordle, Word Hurdle (6-letter), Mini Crossword, Word Search and Anagram Solver. No sign-up, fresh puzzles every 24 hours.
 
 ![WordleLike](img/wordlelike.png)
+
+## [Plain Game](https://plaingame.fun/)
+
+A daily estimation game: seven rounds where you name something close to a target number (a mountain near a given height, a film near a running time) or estimate an everyday fact. Closer guesses earn more points and fly your plane higher. Free, no sign-up, with unlimited practice and an untimed Discovery mode.
