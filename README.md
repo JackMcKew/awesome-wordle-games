@@ -146,3 +146,9 @@ Each day a new architectural project to guess from the images!
 A free hub of **5 daily games like Wordle** — classic Wordle, Word Hurdle (6-letter), Mini Crossword, Word Search and Anagram Solver. No sign-up, fresh puzzles every 24 hours.
 
 ![WordleLike](img/wordlelike.png)
+
+## [Scalar](https://www.scalargame.com/scalar)
+
+Guess the mystery country in as few moves as possible. New country each day.
+
+Each guess shows the distance between capitals, the region, higher/lower arrows for area and population, landlocked status, borders and more.
