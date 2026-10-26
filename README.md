@@ -146,3 +146,7 @@ Each day a new architectural project to guess from the images!
 A free hub of **5 daily games like Wordle** — classic Wordle, Word Hurdle (6-letter), Mini Crossword, Word Search and Anagram Solver. No sign-up, fresh puzzles every 24 hours.
 
 ![WordleLike](img/wordlelike.png)
+
+## [Rarest Answer](https://rarestanswer.com/?ref=awesome-wordle-games)
+
+A free daily trivia game where the **rarest correct answer wins**: 7 prompts a day (e.g. "Name a fruit that isn't red"), each with dozens of valid answers. The fewer players who gave yours, the more points you score. Shareable result grid, streaks, and themed dailies for movies, sports, geography and music. No sign-up.
