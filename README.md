@@ -146,3 +146,7 @@ Each day a new architectural project to guess from the images!
 A free hub of **5 daily games like Wordle** — classic Wordle, Word Hurdle (6-letter), Mini Crossword, Word Search and Anagram Solver. No sign-up, fresh puzzles every 24 hours.
 
 ![WordleLike](img/wordlelike.png)
+
+## [Prompt Duel](https://prompt-duel-delta.vercel.app/?daily)
+
+Describe the day's AI-generated picture in 60 seconds. An image model paints your description and an AI judge scores how close it is, from 0 to 100. One picture for everyone, one try, a new puzzle each day.
