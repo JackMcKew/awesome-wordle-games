@@ -146,3 +146,7 @@ Each day a new architectural project to guess from the images!
 A free hub of **5 daily games like Wordle** — classic Wordle, Word Hurdle (6-letter), Mini Crossword, Word Search and Anagram Solver. No sign-up, fresh puzzles every 24 hours.
 
 ![WordleLike](img/wordlelike.png)
+
+## [Free Word Puzzle](https://www.freewordpuzzle.com/)
+
+Free Wordle-style games in 4, 5 and 6 letters with daily and unlimited modes, plus a Nerdle-style math puzzle. No sign-up.
