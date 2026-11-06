@@ -146,3 +146,7 @@ Each day a new architectural project to guess from the images!
 A free hub of **5 daily games like Wordle** — classic Wordle, Word Hurdle (6-letter), Mini Crossword, Word Search and Anagram Solver. No sign-up, fresh puzzles every 24 hours.
 
 ![WordleLike](img/wordlelike.png)
+
+## [Tilehit](https://tilehit.com/)
+
+A free daily numbers puzzle. Combine six number tiles with + - x / to reach a three-digit target. Exact is 3 stars, within 5 is 2, within 10 is 1. A new Daily every day.
