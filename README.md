@@ -32,6 +32,10 @@ After each guess, you will have the distance, the direction and the proximity fr
 
 ![Worldle](img/worldle.png)
 
+## [Flag a Day](https://flagaday.com/)
+
+Guess the flag of the day in 6 tries; it starts hidden under tiles and each wrong guess shows distance and direction. Free, no account. Also daily country shapes and flag quizzes.
+
 ## [Nerdle](https://nerdlegame.com/)
 
 Each guess is a calculation.
