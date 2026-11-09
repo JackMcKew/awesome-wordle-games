@@ -146,3 +146,11 @@ Each day a new architectural project to guess from the images!
 A free hub of **5 daily games like Wordle** — classic Wordle, Word Hurdle (6-letter), Mini Crossword, Word Search and Anagram Solver. No sign-up, fresh puzzles every 24 hours.
 
 ![WordleLike](img/wordlelike.png)
+
+## [Word Play Forever](https://wordplayforever.com/)
+
+Unlimited Wordle in the browser: no daily limit, no account, and no ads. Guess the five-letter word in six tries, as many times as you like.
+
+## [Wordle Deutsch 247](https://wordledeutsch247.com/)
+
+Unlimited German Wordle. Guess the five-letter German word in six tries, free and with no account. Also has a 6x5 variant.
