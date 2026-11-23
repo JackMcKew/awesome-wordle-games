@@ -64,6 +64,12 @@ Guess the movie from the images. New movie each day!
 
 ![Framed](img/framed.png)
 
+## [Daily Category Sprint](https://pufferparty.org/categories-game/)
+
+Name as many valid answers as you can for a category in 45 seconds. Everyone gets the same prompt each day.
+
+Frequency: Daily
+
 ## [Waffle](https://wafflegame.net/)
 
 What is it? Wordle, but with six words plus drag-and-drop
